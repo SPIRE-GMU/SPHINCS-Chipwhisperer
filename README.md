@@ -4,8 +4,16 @@ This repository is derived from https://github.com/AymericGenet/SPHINCSplus-FA/t
 
 ***Structure***
 
-crypto:SPHINCS+ source codes
+crypto: SPHINCS+ source codes
 
-simpleserial-sphincsplus:attack template
+simpleserial-sphincsplus: attack template
 
+***Setup***
 
+1. Install Chipwhisperer: https://chipwhisperer.readthedocs.io/en/latest/
+
+2. Copy (crypto & simpleserial-plus) into chipwhisperer/hardware/victims/firmware installaion folder
+
+3. Open jupyter-notebook and kernal sphincs.ipython
+
+   **Note** There may be direction issues when compiling and programming the simpleserial-sphincs. Please change to yours.
