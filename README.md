@@ -38,7 +38,7 @@ This repository implements Faulty Injection attacks on SPHINCS+, and comes up wi
 
 3. Open jupyter-notebook and follow the kernel sphincs.ipython
 
-   **Note** There may be direction issues when compiling and programming the simpleserial-sphincs. Please feel free to change.
+   **Note:** There may be direction issues when compiling and programming the simpleserial-sphincs. Please feel free to change.
 
 ## Reference
 [1] Jupyter-notebook issue: https://stackoverflow.com/questions/77138600/why-does-not-jupyter-notebook-open
