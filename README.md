@@ -1,6 +1,6 @@
 # SPHINCS-Chipwhisperer
 
-This repository implements Faulty Injection attacks on SPHINCS+.
+This repository implements Faulty Injection attacks on SPHINCS+, and comes up with a countermeasure by masing the address using a counter.  
 
 ***Structure***
 
