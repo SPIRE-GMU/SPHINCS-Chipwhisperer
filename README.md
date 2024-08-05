@@ -1,6 +1,6 @@
 # SPHINCS-Chipwhisperer
 
-This repository is derived from https://github.com/AymericGenet/SPHINCSplus-FA/tree/master. If there is any setup issues, please follow the requirements/prerequisites they mentioned.
+This repository implements Faulty Injection attacks on SPHINCS+.
 
 ***Structure***
 
@@ -14,6 +14,7 @@ simpleserial-sphincsplus: attack template
 
 2. Copy (crypto & simpleserial-plus) into chipwhisperer/hardware/victims/firmware installaion folder
 
-3. Open jupyter-notebook and follow the kernal sphincs.ipython
+3. Open jupyter-notebook and follow the kernel sphincs.ipython
 
    **Note** There may be direction issues when compiling and programming the simpleserial-sphincs. Please feel free to change.
+
